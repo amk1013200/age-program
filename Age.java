@@ -8,5 +8,6 @@ public class Age {
         int age = scanner.nextInt();
 
         System.out.println("You are " + age + " years old.");
+        System.out.println("Next year you will be " + (age + 1) + " years old.");
     }
 }
