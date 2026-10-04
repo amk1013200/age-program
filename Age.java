@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Age {
     public static void main(String[] args) {
+     // Read the age from the user   
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter your age: ");
